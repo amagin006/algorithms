@@ -100,7 +100,7 @@ func marge(left: [Int], right: [Int]) -> [Int] {
 
 func heapSort(_ s: inout [Int]) {
     // make heap tree
-    for i in (0..<s.count/2 - 1).reversed(){
+    for i in (0..<s.count/2).reversed(){
         heaplify(&s, length: s.count, lastIndex: i )
     }
     // [13, 11, 9, 3, 7, 8, 5, 2, 1]
@@ -111,7 +111,7 @@ func heapSort(_ s: inout [Int]) {
         heaplify(&s, length: i, lastIndex: 0)
     }
 
-    print(s)
+    print("ans: \(s)")
 }
 
 func heaplify(_ s: inout [Int], length: Int, lastIndex: Int) {
@@ -119,7 +119,6 @@ func heaplify(_ s: inout [Int], length: Int, lastIndex: Int) {
     var large = lastIndex
     let left = lastIndex * 2 + 1
     let right = lastIndex * 2 + 2
-    
     if length > left && s[left] > s[large] {
         large = left
     }
