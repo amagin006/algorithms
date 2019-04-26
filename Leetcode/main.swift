@@ -8,6 +8,5 @@
 
 import Foundation
 
-let s = "aacc"
-let t = "ccac"
-print(isAnagram(s, t))
+let s = "race a car"
+print(isPalindrome(s))
