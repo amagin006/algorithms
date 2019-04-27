@@ -8,5 +8,5 @@
 
 import Foundation
 
-let s = "race a car"
-print(isPalindrome(s))
+let s = "20000000000000000000"
+print(myAtoi(s))
