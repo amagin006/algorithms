@@ -8,5 +8,5 @@
 
 import Foundation
 
-let s = "20000000000000000000"
-print(myAtoi(s))
+let s = "mississippi"
+print(strStr(s, "issip"))
