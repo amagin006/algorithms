@@ -8,5 +8,5 @@
 
 import Foundation
 
-let s = "mississippi"
-print(strStr(s, "issip"))
+let s = 5
+print(countAndSay(s))
