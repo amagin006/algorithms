@@ -8,5 +8,5 @@
 
 import Foundation
 
-let s = 5
-print(countAndSay(s))
+let s = ["dog","racecar","car"]
+print(longestCommonPrefix(s))

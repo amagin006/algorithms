@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		43092A04227AB5550077BE2D /* 038CountAndSay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43092A03227AB5550077BE2D /* 038CountAndSay.swift */; };
+		43227EEB227C00BF00708F43 /* 014.LongestCommonPrefix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43227EEA227C00BF00708F43 /* 014.LongestCommonPrefix.swift */; };
 		432C7C36226F9B5D0080F636 /* 344.ReverseString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 432C7C35226F9B5D0080F636 /* 344.ReverseString.swift */; };
 		432C7C38226F9C2D0080F636 /* 387.FirstUniqueCharacterInAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 432C7C37226F9C2D0080F636 /* 387.FirstUniqueCharacterInAString.swift */; };
 		4332CBF52271919E00C51D36 /* 242.ValidAnagram.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4332CBF42271919E00C51D36 /* 242.ValidAnagram.swift */; };
@@ -38,6 +40,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		43092A03227AB5550077BE2D /* 038CountAndSay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 038CountAndSay.swift; sourceTree = "<group>"; };
+		43227EEA227C00BF00708F43 /* 014.LongestCommonPrefix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 014.LongestCommonPrefix.swift; sourceTree = "<group>"; };
 		432C7C35226F9B5D0080F636 /* 344.ReverseString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 344.ReverseString.swift; sourceTree = "<group>"; };
 		432C7C37226F9C2D0080F636 /* 387.FirstUniqueCharacterInAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 387.FirstUniqueCharacterInAString.swift; sourceTree = "<group>"; };
 		4332CBF42271919E00C51D36 /* 242.ValidAnagram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 242.ValidAnagram.swift; sourceTree = "<group>"; };
@@ -93,7 +97,9 @@
 				438E8069227401A3004C5356 /* 008.StringToIntegerAtoi.swift */,
 				43DC41982265A163004CE94A /* 009.PalindromeNumber.swift */,
 				43DC41962265A135004CE94A /* 013.RomanToInteger.swift */,
+				43227EEA227C00BF00708F43 /* 014.LongestCommonPrefix.swift */,
 				438E806B2276B136004C5356 /* 028.ImplementStrStr.swift */,
+				43092A03227AB5550077BE2D /* 038CountAndSay.swift */,
 				43708B86226CF8B5008277B9 /* 048.RotateImage.swift */,
 				43DBA260226BE632004E5ACE /* 066.PlusOne .swift */,
 				43DC419A2265A1A5004CE94A /* 122.BestTimeToBuyAndSellStockII.swift */,
@@ -169,6 +175,7 @@
 				43DBA261226BE632004E5ACE /* 066.PlusOne .swift in Sources */,
 				4332CBF52271919E00C51D36 /* 242.ValidAnagram.swift in Sources */,
 				43708B87226CF8B5008277B9 /* 048.RotateImage.swift in Sources */,
+				43092A04227AB5550077BE2D /* 038CountAndSay.swift in Sources */,
 				43DC41972265A135004CE94A /* 013.RomanToInteger.swift in Sources */,
 				43D446D322626D21006312C1 /* main.swift in Sources */,
 				432C7C36226F9B5D0080F636 /* 344.ReverseString.swift in Sources */,
@@ -178,6 +185,7 @@
 				43DC419B2265A1A5004CE94A /* 122.BestTimeToBuyAndSellStockII.swift in Sources */,
 				439C191B226A6A13006FA74E /* 217.ContainsDuplicate.swift in Sources */,
 				438E8046227373A1004C5356 /* 125.ValidPalindrome.swift in Sources */,
+				43227EEB227C00BF00708F43 /* 014.LongestCommonPrefix.swift in Sources */,
 				43D446DA22626D9F006312C1 /* leetcode01.swift in Sources */,
 				439C191D226A6BD7006FA74E /* 350.IntersectionOfTwoArraysII .swift in Sources */,
 			);
