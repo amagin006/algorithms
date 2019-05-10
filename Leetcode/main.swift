@@ -8,10 +8,6 @@
 
 import Foundation
 
+let s = [7,1,5,3,6,4]
+print(maxProfit1(s))
 
-var nums1 = [1, 2, 3, 0, 0, 0]
-let m = 3
-let nums2 = [2, 5, 6]
-let n = 3
-
-merge(&nums1, m, nums2, n)

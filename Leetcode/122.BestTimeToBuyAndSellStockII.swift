@@ -10,7 +10,7 @@ import Foundation
 
 // 122.Best Time to Buy and Sell Stock II
 
-func maxProfit(_ prices: [Int]) -> Int {
+func maxProfit2(_ prices: [Int]) -> Int {
     var maxProfit = 0
     
     for i in 0..<prices.count - 1 {
