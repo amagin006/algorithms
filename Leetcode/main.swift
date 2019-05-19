@@ -8,6 +8,6 @@
 
 import Foundation
 
-let s = [7,1,5,3,6,4]
-print(maxProfit1(s))
+let s = [1, 2]
+print(maxSubArray(s))
 
