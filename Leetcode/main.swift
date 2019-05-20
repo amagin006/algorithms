@@ -8,6 +8,6 @@
 
 import Foundation
 
-let s = [1, 2]
-print(maxSubArray(s))
+let s = [2,7,9,3,1]
+print(rob(s))
 
