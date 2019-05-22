@@ -8,6 +8,11 @@
 
 import Foundation
 
-let s = [2,7,9,3,1]
-print(rob(s))
-
+var minStack = MinStack()
+minStack.push(-2)
+minStack.push(0)
+minStack.push(-3)
+print(minStack.getMin())
+minStack.pop()
+print(minStack.top())
+print(minStack.getMin())
