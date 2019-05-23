@@ -8,11 +8,4 @@
 
 import Foundation
 
-var minStack = MinStack()
-minStack.push(-2)
-minStack.push(0)
-minStack.push(-3)
-print(minStack.getMin())
-minStack.pop()
-print(minStack.top())
-print(minStack.getMin())
+print(fizzBuzz(1))
