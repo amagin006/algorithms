@@ -8,4 +8,5 @@
 
 import Foundation
 
-print(fizzBuzz(1))
+//print(countPrimes(12000))
+checkPrimes(n: 10)

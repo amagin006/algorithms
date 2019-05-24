@@ -26,6 +26,7 @@
 		43B3F54622932DD4009DE69E /* 198.HouseRobber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43B3F54522932DD4009DE69E /* 198.HouseRobber.swift */; };
 		43B3F54822932F38009DE69E /* 384.ShuffleAnArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43B3F54722932F38009DE69E /* 384.ShuffleAnArray.swift */; };
 		43CF000A2296736B00A8D245 /* 412.FizzBuzz.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43CF00092296736B00A8D245 /* 412.FizzBuzz.swift */; };
+		43D21763229893EC00356B50 /* 204.CountPrimes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43D21762229893EC00356B50 /* 204.CountPrimes.swift */; };
 		43D446D322626D21006312C1 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43D446D222626D21006312C1 /* main.swift */; };
 		43D446DA22626D9F006312C1 /* leetcode01.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43D446D922626D9F006312C1 /* leetcode01.swift */; };
 		43DBA261226BE632004E5ACE /* 066.PlusOne .swift in Sources */ = {isa = PBXBuildFile; fileRef = 43DBA260226BE632004E5ACE /* 066.PlusOne .swift */; };
@@ -67,6 +68,7 @@
 		43B3F54522932DD4009DE69E /* 198.HouseRobber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 198.HouseRobber.swift; sourceTree = "<group>"; };
 		43B3F54722932F38009DE69E /* 384.ShuffleAnArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 384.ShuffleAnArray.swift; sourceTree = "<group>"; };
 		43CF00092296736B00A8D245 /* 412.FizzBuzz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 412.FizzBuzz.swift; sourceTree = "<group>"; };
+		43D21762229893EC00356B50 /* 204.CountPrimes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 204.CountPrimes.swift; sourceTree = "<group>"; };
 		43D446CF22626D21006312C1 /* Leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Leetcode; sourceTree = BUILT_PRODUCTS_DIR; };
 		43D446D222626D21006312C1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		43D446D922626D9F006312C1 /* leetcode01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = leetcode01.swift; sourceTree = "<group>"; };
@@ -126,6 +128,7 @@
 				438E8045227373A1004C5356 /* 125.ValidPalindrome.swift */,
 				4348FFD122953F0900A9F440 /* 155.MinStack.swift */,
 				43B3F54522932DD4009DE69E /* 198.HouseRobber.swift */,
+				43D21762229893EC00356B50 /* 204.CountPrimes.swift */,
 				439C191A226A6A13006FA74E /* 217.ContainsDuplicate.swift */,
 				4332CBF42271919E00C51D36 /* 242.ValidAnagram.swift */,
 				432C7C35226F9B5D0080F636 /* 344.ReverseString.swift */,
@@ -195,6 +198,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				43DC41992265A163004CE94A /* 009.PalindromeNumber.swift in Sources */,
+				43D21763229893EC00356B50 /* 204.CountPrimes.swift in Sources */,
 				432C7C38226F9C2D0080F636 /* 387.FirstUniqueCharacterInAString.swift in Sources */,
 				43DBA261226BE632004E5ACE /* 066.PlusOne .swift in Sources */,
 				4332CBF52271919E00C51D36 /* 242.ValidAnagram.swift in Sources */,
