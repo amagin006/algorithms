@@ -8,5 +8,5 @@
 
 import Foundation
 
-//print(countPrimes(12000))
-checkPrimes(n: 10)
+
+print(isPowerOfThree(10))
