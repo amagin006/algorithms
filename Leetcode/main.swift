@@ -9,4 +9,4 @@
 import Foundation
 
 
-print(generate(5))
+print(trailingZeroes(10))
