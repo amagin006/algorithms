@@ -9,4 +9,4 @@
 import Foundation
 
 
-print(isPowerOfThree(10))
+print(generate(5))
