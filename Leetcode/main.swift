@@ -8,5 +8,6 @@
 
 import Foundation
 
-
-print(trailingZeroes(10))
+let nums = [Int]()
+let target = 2
+print(search(nums, target))
