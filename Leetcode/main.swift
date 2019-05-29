@@ -9,5 +9,4 @@
 import Foundation
 
 let nums = [Int]()
-let target = 2
-print(search(nums, target))
+print(validMountainArray(nums))
