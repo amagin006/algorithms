@@ -8,5 +8,5 @@
 
 import Foundation
 
-let nums = [Int]()
-print(validMountainArray(nums))
+let nums = [[0,0,1],[1,0,0]]
+print(floodFill(nums, 1,0,2))
