@@ -8,5 +8,5 @@
 
 import Foundation
 
-let nums = [[0,0,1],[1,0,0]]
-print(floodFill(nums, 1,0,2))
+let nums = [9,6,4,2,3,5,7,0,1]
+print(missingNumber(nums))
