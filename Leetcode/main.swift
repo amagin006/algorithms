@@ -8,5 +8,6 @@
 
 import Foundation
 
-let nums = [9,6,4,2,3,5,7,0,1]
-print(missingNumber(nums))
+let S = "aaba"
+let C:Character = "b"
+print(shortestToChar(S, C))
