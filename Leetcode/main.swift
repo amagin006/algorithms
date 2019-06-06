@@ -8,6 +8,5 @@
 
 import Foundation
 
-let S = "aaba"
-let C:Character = "b"
-print(shortestToChar(S, C))
+let nums = [0,0,3,2]
+print(dominantIndex(nums))
