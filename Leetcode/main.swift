@@ -8,5 +8,5 @@
 
 import Foundation
 
-let nums = [0,0,3,2]
-print(dominantIndex(nums))
+let nums = 4
+print(mySqrt(nums))
