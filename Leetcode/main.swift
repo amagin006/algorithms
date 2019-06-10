@@ -8,5 +8,5 @@
 
 import Foundation
 
-let nums = 4
-print(mySqrt(nums))
+let input = "(]"
+print(isValid(input))
