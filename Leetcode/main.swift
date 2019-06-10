@@ -8,5 +8,5 @@
 
 import Foundation
 
-let input = "(]"
-print(isValid(input))
+var input = [0,1,0,3,12]
+print(moveZeroes(&input))
