@@ -8,5 +8,6 @@
 
 import Foundation
 
-var input = [0,1,0,3,12]
-print(moveZeroes(&input))
+var input = [1,3,5,6]
+var target = 5
+print(searchInsert(input, target))

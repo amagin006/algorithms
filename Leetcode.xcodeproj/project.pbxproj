@@ -46,6 +46,7 @@
 		43DC41992265A163004CE94A /* 009.PalindromeNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43DC41982265A163004CE94A /* 009.PalindromeNumber.swift */; };
 		43DC419B2265A1A5004CE94A /* 122.BestTimeToBuyAndSellStockII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43DC419A2265A1A5004CE94A /* 122.BestTimeToBuyAndSellStockII.swift */; };
 		43DD4BA422A9BE50009723D4 /* 747.LargestNumberAtLeastTwiceofOthers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43DD4BA322A9BE50009723D4 /* 747.LargestNumberAtLeastTwiceofOthers.swift */; };
+		43E2D18922B20FC800DCD9CA /* 035.SearchInsertPosition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43E2D18822B20FC800DCD9CA /* 035.SearchInsertPosition.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -101,6 +102,7 @@
 		43DC41982265A163004CE94A /* 009.PalindromeNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 009.PalindromeNumber.swift; sourceTree = "<group>"; };
 		43DC419A2265A1A5004CE94A /* 122.BestTimeToBuyAndSellStockII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 122.BestTimeToBuyAndSellStockII.swift; sourceTree = "<group>"; };
 		43DD4BA322A9BE50009723D4 /* 747.LargestNumberAtLeastTwiceofOthers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 747.LargestNumberAtLeastTwiceofOthers.swift; sourceTree = "<group>"; };
+		43E2D18822B20FC800DCD9CA /* 035.SearchInsertPosition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 035.SearchInsertPosition.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -142,6 +144,7 @@
 				43227EEA227C00BF00708F43 /* 014.LongestCommonPrefix.swift */,
 				433705A522AE243800EBC58B /* 020.ValidParentheses.swift */,
 				438E806B2276B136004C5356 /* 028.ImplementStrStr.swift */,
+				43E2D18822B20FC800DCD9CA /* 035.SearchInsertPosition.swift */,
 				43092A03227AB5550077BE2D /* 038CountAndSay.swift */,
 				43708B86226CF8B5008277B9 /* 048.RotateImage.swift */,
 				437D134E2290D7BA0089CC3B /* 053.MaximumSubarray.swift */,
@@ -247,6 +250,7 @@
 				433705A622AE243800EBC58B /* 020.ValidParentheses.swift in Sources */,
 				43D446D322626D21006312C1 /* main.swift in Sources */,
 				4348FFD222953F0900A9F440 /* 155.MinStack.swift in Sources */,
+				43E2D18922B20FC800DCD9CA /* 035.SearchInsertPosition.swift in Sources */,
 				437A7595229DE2D10032E371 /* 704.BinarySearch.swift in Sources */,
 				432C7C36226F9B5D0080F636 /* 344.ReverseString.swift in Sources */,
 				43B3F54822932F38009DE69E /* 384.ShuffleAnArray.swift in Sources */,
