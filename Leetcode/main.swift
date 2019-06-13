@@ -8,6 +8,5 @@
 
 import Foundation
 
-var input = [1,3,5,6]
-var target = 5
-print(searchInsert(input, target))
+var input = [3,1,4,2]
+print(sortArrayByParityII(input))

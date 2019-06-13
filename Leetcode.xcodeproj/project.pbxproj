@@ -47,6 +47,7 @@
 		43DC419B2265A1A5004CE94A /* 122.BestTimeToBuyAndSellStockII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43DC419A2265A1A5004CE94A /* 122.BestTimeToBuyAndSellStockII.swift */; };
 		43DD4BA422A9BE50009723D4 /* 747.LargestNumberAtLeastTwiceofOthers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43DD4BA322A9BE50009723D4 /* 747.LargestNumberAtLeastTwiceofOthers.swift */; };
 		43E2D18922B20FC800DCD9CA /* 035.SearchInsertPosition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43E2D18822B20FC800DCD9CA /* 035.SearchInsertPosition.swift */; };
+		43E2D18B22B2BCE000DCD9CA /* 922.SortArrayByParityII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43E2D18A22B2BCE000DCD9CA /* 922.SortArrayByParityII.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -103,6 +104,7 @@
 		43DC419A2265A1A5004CE94A /* 122.BestTimeToBuyAndSellStockII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 122.BestTimeToBuyAndSellStockII.swift; sourceTree = "<group>"; };
 		43DD4BA322A9BE50009723D4 /* 747.LargestNumberAtLeastTwiceofOthers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 747.LargestNumberAtLeastTwiceofOthers.swift; sourceTree = "<group>"; };
 		43E2D18822B20FC800DCD9CA /* 035.SearchInsertPosition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 035.SearchInsertPosition.swift; sourceTree = "<group>"; };
+		43E2D18A22B2BCE000DCD9CA /* 922.SortArrayByParityII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 922.SortArrayByParityII.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -174,6 +176,7 @@
 				4327314F22A05FA200BE2792 /* 733.FloodFill.swift */,
 				43DD4BA322A9BE50009723D4 /* 747.LargestNumberAtLeastTwiceofOthers.swift */,
 				43A2F49822A6D5A9003A07ED /* 821.ShortestDistanceToACharacter.swift */,
+				43E2D18A22B2BCE000DCD9CA /* 922.SortArrayByParityII.swift */,
 				437A7596229F41C30032E371 /* 941.ValidMountainArray.swift */,
 			);
 			path = Leetcode;
@@ -241,6 +244,7 @@
 				432C7C38226F9C2D0080F636 /* 387.FirstUniqueCharacterInAString.swift in Sources */,
 				43DBA261226BE632004E5ACE /* 066.PlusOne .swift in Sources */,
 				4332CBF52271919E00C51D36 /* 242.ValidAnagram.swift in Sources */,
+				43E2D18B22B2BCE000DCD9CA /* 922.SortArrayByParityII.swift in Sources */,
 				4325625A2282948300EA4C27 /* 070.ClimbingStairs .swift in Sources */,
 				43708B87226CF8B5008277B9 /* 048.RotateImage.swift in Sources */,
 				43092A04227AB5550077BE2D /* 038CountAndSay.swift in Sources */,
