@@ -8,5 +8,5 @@
 
 import Foundation
 
-var input = [3,1,4,2]
-print(sortArrayByParityII(input))
+var input = [3,2,3]
+print(majorityElement(input))
