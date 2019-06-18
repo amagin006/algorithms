@@ -8,5 +8,5 @@
 
 import Foundation
 
-var input = [3,2,3]
-print(majorityElement(input))
+var input = 1024
+print(isPowerOfFour(input))
