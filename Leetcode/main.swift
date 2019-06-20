@@ -8,5 +8,5 @@
 
 import Foundation
 
-var input = 1024
-print(isPowerOfFour(input))
+var input = "a "
+print(lengthOfLastWord(input))
