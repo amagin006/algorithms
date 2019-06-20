@@ -8,5 +8,5 @@
 
 import Foundation
 
-var input = "a "
-print(lengthOfLastWord(input))
+var input = [1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0]
+print(findMaxConsecutiveOnes(input))
