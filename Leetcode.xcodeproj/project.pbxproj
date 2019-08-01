@@ -12,6 +12,7 @@
 		43227EFA227EA66700708F43 /* 088MergeSortedArray .swift in Sources */ = {isa = PBXBuildFile; fileRef = 43227EF9227EA66700708F43 /* 088MergeSortedArray .swift */; };
 		4325625A2282948300EA4C27 /* 070.ClimbingStairs .swift in Sources */ = {isa = PBXBuildFile; fileRef = 432562592282948300EA4C27 /* 070.ClimbingStairs .swift */; };
 		4327315022A05FA200BE2792 /* 733.FloodFill.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4327314F22A05FA200BE2792 /* 733.FloodFill.swift */; };
+		432C504022F3907700503A5C /* 896.MonotonicArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 432C503F22F3907700503A5C /* 896.MonotonicArray.swift */; };
 		432C7C36226F9B5D0080F636 /* 344.ReverseString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 432C7C35226F9B5D0080F636 /* 344.ReverseString.swift */; };
 		432C7C38226F9C2D0080F636 /* 387.FirstUniqueCharacterInAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 432C7C37226F9C2D0080F636 /* 387.FirstUniqueCharacterInAString.swift */; };
 		4332CBF52271919E00C51D36 /* 242.ValidAnagram.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4332CBF42271919E00C51D36 /* 242.ValidAnagram.swift */; };
@@ -74,6 +75,7 @@
 		43227EF9227EA66700708F43 /* 088MergeSortedArray .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "088MergeSortedArray .swift"; sourceTree = "<group>"; };
 		432562592282948300EA4C27 /* 070.ClimbingStairs .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "070.ClimbingStairs .swift"; sourceTree = "<group>"; };
 		4327314F22A05FA200BE2792 /* 733.FloodFill.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 733.FloodFill.swift; sourceTree = "<group>"; };
+		432C503F22F3907700503A5C /* 896.MonotonicArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 896.MonotonicArray.swift; sourceTree = "<group>"; };
 		432C7C35226F9B5D0080F636 /* 344.ReverseString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 344.ReverseString.swift; sourceTree = "<group>"; };
 		432C7C37226F9C2D0080F636 /* 387.FirstUniqueCharacterInAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 387.FirstUniqueCharacterInAString.swift; sourceTree = "<group>"; };
 		4332CBF42271919E00C51D36 /* 242.ValidAnagram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 242.ValidAnagram.swift; sourceTree = "<group>"; };
@@ -163,7 +165,6 @@
 				43708B86226CF8B5008277B9 /* 048.RotateImage.swift */,
 				437D134E2290D7BA0089CC3B /* 053.MaximumSubarray.swift */,
 				4366759E22BB4DC200AD1663 /* 058.LengthOfLastWord.swift */,
-				436675A022BC24CF00AD1663 /* 485.MaxConsecutiveOnes.swift */,
 				43DBA260226BE632004E5ACE /* 066.PlusOne .swift */,
 				43DB7E4022ACC29B009B553A /* 069.Sqrt(x).swift */,
 				432562592282948300EA4C27 /* 070.ClimbingStairs .swift */,
@@ -190,10 +191,12 @@
 				43B3F54722932F38009DE69E /* 384.ShuffleAnArray.swift */,
 				432C7C37226F9C2D0080F636 /* 387.FirstUniqueCharacterInAString.swift */,
 				43CF00092296736B00A8D245 /* 412.FizzBuzz.swift */,
+				436675A022BC24CF00AD1663 /* 485.MaxConsecutiveOnes.swift */,
 				437A7594229DE2D10032E371 /* 704.BinarySearch.swift */,
 				4327314F22A05FA200BE2792 /* 733.FloodFill.swift */,
 				43DD4BA322A9BE50009723D4 /* 747.LargestNumberAtLeastTwiceofOthers.swift */,
 				43A2F49822A6D5A9003A07ED /* 821.ShortestDistanceToACharacter.swift */,
+				432C503F22F3907700503A5C /* 896.MonotonicArray.swift */,
 				43E2D18A22B2BCE000DCD9CA /* 922.SortArrayByParityII.swift */,
 				437A7596229F41C30032E371 /* 941.ValidMountainArray.swift */,
 			);
@@ -286,6 +289,7 @@
 				43DC419B2265A1A5004CE94A /* 122.BestTimeToBuyAndSellStockII.swift in Sources */,
 				43E2D19122B5B2DF00DCD9CA /* 020.ValidParentheses.swift in Sources */,
 				43227EFA227EA66700708F43 /* 088MergeSortedArray .swift in Sources */,
+				432C504022F3907700503A5C /* 896.MonotonicArray.swift in Sources */,
 				43DB7E4122ACC29B009B553A /* 069.Sqrt(x).swift in Sources */,
 				43A2F47422A34FA2003A07ED /* 268.MissingNumber.swift in Sources */,
 				439C191B226A6A13006FA74E /* 217.ContainsDuplicate.swift in Sources */,

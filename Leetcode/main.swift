@@ -8,5 +8,5 @@
 
 import Foundation
 
-var input = [1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0]
-print(findMaxConsecutiveOnes(input))
+var nums = [1,1,2]
+print(isMonotonic(nums))
