@@ -8,5 +8,6 @@
 
 import Foundation
 
-var nums = [1,1,2]
-print(isMonotonic(nums))
+var nums = [3,2,2,3]
+let val = 3
+print(removeElement(&nums, val))
