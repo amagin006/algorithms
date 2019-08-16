@@ -8,6 +8,4 @@
 
 import Foundation
 
-var nums = [3,2,2,3]
-let val = 3
-print(removeElement(&nums, val))
+print(isSameTree)
