@@ -7,5 +7,6 @@
 //
 
 import Foundation
-
-print(isSameTree)
+let left = 1
+let right = 22
+print(selfDividingNumbers(left, right))
