@@ -59,6 +59,7 @@
 		43E2D19122B5B2DF00DCD9CA /* 020.ValidParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43E2D19022B5B2DF00DCD9CA /* 020.ValidParentheses.swift */; };
 		43EE88652307DABD00DA3050 /* 728.SelfDividingNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43EE88642307DABD00DA3050 /* 728.SelfDividingNumbers.swift */; };
 		43F023C022B7F659005CF028 /* 206.ReverseLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43F023BF22B7F659005CF028 /* 206.ReverseLinkedList.swift */; };
+		43FC36E02308EA3D00825BE2 /* 414.ThirdMaximumNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43FC36DF2308EA3D00825BE2 /* 414.ThirdMaximumNumber.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -127,6 +128,7 @@
 		43E2D19022B5B2DF00DCD9CA /* 020.ValidParentheses.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 020.ValidParentheses.swift; sourceTree = "<group>"; };
 		43EE88642307DABD00DA3050 /* 728.SelfDividingNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 728.SelfDividingNumbers.swift; sourceTree = "<group>"; };
 		43F023BF22B7F659005CF028 /* 206.ReverseLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 206.ReverseLinkedList.swift; sourceTree = "<group>"; };
+		43FC36DF2308EA3D00825BE2 /* 414.ThirdMaximumNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 414.ThirdMaximumNumber.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -202,6 +204,7 @@
 				43B3F54722932F38009DE69E /* 384.ShuffleAnArray.swift */,
 				432C7C37226F9C2D0080F636 /* 387.FirstUniqueCharacterInAString.swift */,
 				43CF00092296736B00A8D245 /* 412.FizzBuzz.swift */,
+				43FC36DF2308EA3D00825BE2 /* 414.ThirdMaximumNumber.swift */,
 				436675A022BC24CF00AD1663 /* 485.MaxConsecutiveOnes.swift */,
 				437A7594229DE2D10032E371 /* 704.BinarySearch.swift */,
 				43EE88642307DABD00DA3050 /* 728.SelfDividingNumbers.swift */,
@@ -296,6 +299,7 @@
 				433705A822AEE8CE00EBC58B /* 283.MoveZeroes.swift in Sources */,
 				43F023C022B7F659005CF028 /* 206.ReverseLinkedList.swift in Sources */,
 				4366759F22BB4DC200AD1663 /* 058.LengthOfLastWord.swift in Sources */,
+				43FC36E02308EA3D00825BE2 /* 414.ThirdMaximumNumber.swift in Sources */,
 				438E806C2276B136004C5356 /* 028.ImplementStrStr.swift in Sources */,
 				4351321B229C464E004C74A2 /* 172.FactorialTrailingZeroes.swift in Sources */,
 				43C1A069229BA57100DC571F /* 118.Pascal'sTriangle.swift in Sources */,

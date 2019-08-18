@@ -7,6 +7,5 @@
 //
 
 import Foundation
-let left = 1
-let right = 22
-print(selfDividingNumbers(left, right))
+let nums = [3, 2, 1]
+print(thirdMax(nums))
