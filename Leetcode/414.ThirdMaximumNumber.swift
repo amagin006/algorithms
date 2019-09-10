@@ -19,4 +19,4 @@ func thirdMax(_ nums: [Int]) -> Int {
     }
     return (top3.count == 3) ? top3.min()! : top3.max()!
 }
-}
+

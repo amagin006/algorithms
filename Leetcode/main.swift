@@ -7,5 +7,7 @@
 //
 
 import Foundation
-let nums = [3, 2, 1]
-print(thirdMax(nums))
+
+let S = "aaa"
+
+print(largeGroupPositions(S))
