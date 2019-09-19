@@ -8,6 +8,6 @@
 
 import Foundation
 
-let S = "aaa"
+let S = "HELLO"
 
-print(largeGroupPositions(S))
+print(toLowerCase(S))
