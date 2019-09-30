@@ -8,6 +8,6 @@
 
 import Foundation
 
-let S = "HELLO"
+let S = [-3,0,1,-3,1,1,1,-3,10,0]
 
-print(toLowerCase(S))
+print(uniqueOccurrences(S))
